@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/2de03c29-90d4-49f1-b7fa-496f3984c35a/第03章_基本的SELECT语句.sql" dialect="MySQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/2de03c29-90d4-49f1-b7fa-496f3984c35a/第06章_多表查询_练习.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$" dialect="MySQL" />
+    <file url="PROJECT" dialect="MySQL" />
+  </component>
+</project>
